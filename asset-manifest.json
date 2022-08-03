@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/odin-landing-page/static/css/main.e9b66bf1.css",
+    "main.js": "/odin-landing-page/static/js/main.d979dc26.js",
+    "static/media/hat-kirby": "/odin-landing-page/static/media/hat-kirby.a6a07a428f28bf7d0ee9",
+    "static/media/star-kirby": "/odin-landing-page/static/media/star-kirby.23520669178bc1602759",
+    "static/media/orange-kirby": "/odin-landing-page/static/media/orange-kirby.cd7ff651a28815fc659e",
+    "static/media/kirby-icon": "/odin-landing-page/static/media/kirby-icon.d681284b5d090f0f8029",
+    "static/media/kirby": "/odin-landing-page/static/media/kirby.320a1230236054618d3a",
+    "index.html": "/odin-landing-page/index.html",
+    "main.e9b66bf1.css.map": "/odin-landing-page/static/css/main.e9b66bf1.css.map",
+    "main.d979dc26.js.map": "/odin-landing-page/static/js/main.d979dc26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9b66bf1.css",
+    "static/js/main.d979dc26.js"
+  ]
+}
